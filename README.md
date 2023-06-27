@@ -17,19 +17,19 @@ An application that you can create, save, and delete notes on.
 
 ## Installation
 
-Click on application link and use!
+Click on the application link and use it!
 
 ## Usage
 
-Type your notes and save an delete as needed.
+Type your notes and save and delete them as needed.
 
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 ## Links
-- Heroku App : https://shielded-plains-00025-966536461be5.herokuapp.com/notes
-- 
+- Heroku App: https://shielded-plains-00025-966536461be5.herokuapp.com/notes
+- GitHub Repo: https://github.com/Dani-Gore13/hw11-note-taker-app
 
 ## Tests
 
