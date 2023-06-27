@@ -27,9 +27,9 @@ Type your notes and save an delete as needed.
 
 This project is licensed under the MIT license. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
-## Contributing
-
-N/A
+## Links
+- Heroku App : https://shielded-plains-00025-966536461be5.herokuapp.com/notes
+- 
 
 ## Tests
 
